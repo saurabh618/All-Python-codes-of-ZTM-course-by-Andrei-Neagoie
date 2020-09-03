@@ -1,0 +1,37 @@
+1. Go to github website
+2. Start a project
+3. Name the repository anything you want
+4. select 'Initialize this repository with a README'
+5. Clone with HTTPS, copy the url
+6. Open console, and go to the folder where you have kept the files
+7. >git clone <url>
+8. A folder with the project name will be created. Place all the files inside that folder.
+9. go to that folder from console.
+10. >git status
+this will show all the files that have been modified.
+11. >git add <filename>
+or
+>git add .
+to add all the files at once.
+12. >git status
+13. >git commit -m "message that will be shown when someone sees the commits. Just try to add a short message describing the changes committed."
+14. >git push
+sometimes this command does not work, in that case it will ask to use a different command. Use that one then.
+15. >git pull
+if someone has made the changes in the github page, then use this command to update your local files with the latest changes.
+
+
+>git branch
+to see all the branches available
+
+>git branch <new_branch_name>
+to create a new branch
+
+>git checkout <branch_name>
+to work in different branch
+
+if we want to merge from our branch to the master branch, then add, commit then (before you push)
+go to master branch, pull, then go back to your branch and do
+>git merge master
+if there is any conflict, then it will error out and show the conflict.
+conflict in the sense, while we were changing, someone else has changed the code in master branch.
