@@ -1,6 +1,6 @@
 # Complete Python Developer in 2020: Zero to Mastery
 
-This repository contains all the codes and notes, which I prepared when I was pursuing the above course by [@aneagoie](https://github.com/aneagoie), which can be found [here](https://www.udemy.com/share/101URkAkIZdlpbR3w=/).
+This repository contains all the codes and notes, which I prepared when I was pursuing this [course](https://www.udemy.com/share/101URkAkIZdlpbR3w=/) by [@aneagoie](https://github.com/aneagoie).
 
 I have added all these codes (which also contains my notes inside the .py file itself) because I thought that it might help the community and fellow students to get everything at one place, which will help them for revision purpose, just like the cheatsheet.pdf given at the very end of the course.
 
