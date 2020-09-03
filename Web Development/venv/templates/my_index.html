@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Website!</title>
+  <link rel="stylesheet" type="text/css" href="../static/style.css">
+  <link rel="shortcut icon" href="{{ url_for('static', filename='favicon.ico') }}">
+
+<!-- 
+Whatever we type in these double brackets, will be treated as python code. It is using the templating language 'jinja' to do this. And Flask comes built in with that.
+-->
+
+</head>
+<body>
+Hello there! This is a great website! And this message is from the index.html file in the templates folder. 4+5 is: {{4+5}}
+<script src="../static/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+TO CREATE VIRTUAL ENV.:
+python 3 -m venv venv
+
+TO GIVE PERMISSION:
+Set-ExecutionPolicy -ExecutionPolicy unrestricted -Scope CurrentUser
+
+TO ACTIVATE:
+venv\Scripts\Activate.ps1
+
