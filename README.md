@@ -7,8 +7,9 @@ I have added all these codes (which also contains my notes inside the .py file i
 Feel free to fork and add/edit files in here.
 
 Additionally I want to say that, I have worked really hard in creating and keeping the Python codes and my notes up to date. It consists of my long hours of work, writing notes, coding and debugging to finally make this repository what it is today. And I really hope that it's helping you guys and our community.
-If you feel like it has really helped you in your learning process and saved your time and frustration, then please consider of becoming a Patreon Member for 1 Month. This will motivate me like never before and will mean the world to me. It will also help me financially to continue my coding journey :)
+If you feel like it has really helped you in your learning process and saved your time and frustration, then please consider helping me out. This will motivate me like never before and will mean the world to me. It will also help me financially to continue my coding journey :)
 
 Support here: https://www.patreon.com/saurabh618
+or donate Bitcoin here: 16dtjmGmQtDwv4B7unR3mdQZuTjzEdUsDV
 
 Thank You :)
