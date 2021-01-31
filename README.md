@@ -11,7 +11,9 @@ Additionally I want to say that, I have worked really hard in creating and keepi
 If you feel like it has really helped you in your learning process and saved your time and frustration, then do consider supporting me. This will motivate me like never before and will mean the world to me :-)
 
 Support here:
+
 For Bitcoin, Etherium or USDT (ERC20 address, $5+ transfer fee): 0x9ceed8db321995934e7deeaf00fd9ec79a659c3b
+
 For USDT (TRC20 address, $0 transfer fee): TWBpme5WVozC7z2YsMr8hhyBUi53TzpDdZ
 
 Thank You :)
