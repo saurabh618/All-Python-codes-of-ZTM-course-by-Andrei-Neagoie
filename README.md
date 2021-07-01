@@ -1,4 +1,4 @@
-# Complete Python Developer in 2020: Zero to Mastery###################
+# ************************Complete Python Developer in 2020: Zero to Mastery******************
 
 This repository contains all the codes and notes, which I prepared when I was pursuing this [course](https://www.udemy.com/share/101URkAkIZdlpbR3w=/) by [@aneagoie](https://github.com/aneagoie).
 
